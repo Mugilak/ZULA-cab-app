@@ -1,6 +1,6 @@
 # ZULA-cab-app
 
-the application is developed with OOPS and data structures
+the application is developed with OOPS and data structures.
 class and objects are handled perfectly
 
 1. customer login
